@@ -1,2 +1,4 @@
 # personalportfolio
-responsive personal portfolio webpage 
+responsive personal portfolio webpage template
+html and css
+
